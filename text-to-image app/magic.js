@@ -8,7 +8,7 @@ for (let i=2;i<args.length;i++){
 }
 console.log(prompt);
 const rqbody = {
-    "key": "oDMI3XiBzlBH0gn1QvmaooWJmvslvxhqqt5FTYExuwq9VGN9ZXTkMQK4w1wr",
+    "key": "YOUR API KEY",
     "prompt": `${prompt}`,
     "negative_prompt": " ",
     "width": "512",
