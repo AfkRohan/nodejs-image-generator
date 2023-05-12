@@ -1,7 +1,7 @@
 # nodejs-image-generator
 Generate images using stable diffusion.
 
-Prerequistes: Nodejs is Installed.
+Prerequistes: Nodejs is Installed,Having a stable diffusion account or api key.
 
 Steps:
 To use this app.
